@@ -58,9 +58,6 @@ Any static web hosting provider
 Pull requests, feedback, or issues are always welcome.
 Fork and customize this project for your own brand or business!
 
-📄 License
-MIT License — free for personal and commercial use.
-Attribution appreciated if you find this project useful.
 
 Created with passion by Aishwarya.S
 Feel free to connect or reach out for feedback and collaboration!
